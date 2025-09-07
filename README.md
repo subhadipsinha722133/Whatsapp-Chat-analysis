@@ -17,7 +17,8 @@ It uses **Streamlit** for the interface and includes insights such as message ac
 
 ## 📺Live Demo
 
-- 🔗Demo Link :- [https://whatsapp-chat-analysis-kdjcfeqkokrojsyju6jad3.streamlit.app/](https://whatsapp-chat-analysis-kdjcfeqkokrojsyju6jad3.streamlit.app/)
+- 🔗Demo Link :-
+- https://whatsapp-chat-analysis-kdjcfeqkokrojsyju6jad3.streamlit.app/
 - 🎬Demo Voideo
 <img src="https://github.com/subhadipsinha722133/Whatsapp-Chat-analysis/blob/main/WhatsApp%20Chat%20Analysis%20%20.gif">
 
