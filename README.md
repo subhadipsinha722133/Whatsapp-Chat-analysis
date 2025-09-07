@@ -4,5 +4,5 @@
 
 ## Demo Link 
 
-[Demo](https://whatsapp-chat-analysis-kdjcfeqkokrojsyju6jad3.streamlit.app/)
+
 https://whatsapp-chat-analysis-kdjcfeqkokrojsyju6jad3.streamlit.app/
