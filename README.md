@@ -62,8 +62,8 @@ This will save a .txt file.<br>
 Run the Streamlit app:<br>
 
     ```bash
-Copy code<br>
-streamlit run app.py<br>
+      Copy code
+      streamlit run app.py
 Upload the exported .txt file in the app.<br>
 
 Explore the interactive insights and visualizations! 🎉
