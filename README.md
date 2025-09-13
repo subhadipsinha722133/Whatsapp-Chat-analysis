@@ -51,7 +51,7 @@ Create a virtual environment (optional but recommended):
 
 
  
-    pip install -r requirements.txt<br>
+    pip install -r requirements.txt
 
 ---
 # ▶️ Usage
